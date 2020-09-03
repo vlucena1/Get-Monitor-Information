@@ -33,7 +33,6 @@
       HP           HP ZR22w   CN67891234   SSA7-F1071-0T7F
 
   #>
-  # EsseScriptAgora é Meu
 
   [CmdletBinding()]
   PARAM (
